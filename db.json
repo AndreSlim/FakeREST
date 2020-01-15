@@ -1,11 +1,12 @@
 {
-  "posts": [
+  "texto": [
     {
       "id": 1,
-      "title": "hello"
+      "titulo": "Recuperar",
+      "cuerpo": "Este es un mensaje mostrado desde una API REST para mostrar el texto de un label."
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "app": {
+    "nombre": "App de perritos"
   }
 }
