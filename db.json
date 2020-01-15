@@ -1,12 +1,20 @@
 {
-  "texto": [
-    {
+
+  "textos": {
+    labelUno:[
       "id": 1,
       "titulo": "Recuperar",
       "cuerpo": "Este es un mensaje mostrado desde una API REST para mostrar el texto de un label."
-    }
-  ],
+    ],
+    labelDos:[
+      "id": 2,
+      "titulo": "Recuperar",
+      "cuerpo": "Este es OTRO mensaje mostrado desde una API REST para mostrar el texto de OTRO label."
+    ]  
+  },
+  
   "app": {
     "nombre": "App de perritos"
   }
+
 }
