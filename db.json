@@ -1,15 +1,24 @@
-{
+[
 
-  "texto": [
-      {
-        "id": 1,
-        "titulo": "Recuperar",
-        "cuerpo": "Este es un mensaje mostrado desde una API REST para mostrar el texto de un label."
-      }
-  ],
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Etiqueta número uno",
+    "body": "Esta es la etiqueta Número uno de la API REST"
+  },
 
-  "app": {
-    "nombre": "App de perritos"
-  }
-  
-}
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Etiqueta número dos",
+    "body": "Esta es la etiqueta Número dos de la API REST"
+  },
+
+  {
+    "userId": 2,
+    "id": 3,
+    "title": "Etiqueta número tres",
+    "body": "Esta es la etiqueta Número tres de la API REST"
+  },
+
+]
